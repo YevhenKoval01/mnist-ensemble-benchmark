@@ -114,6 +114,4 @@ pytest
 ruff check .
 ```
 
-## Project status
 
-Portfolio-ready. The pipeline is complete and can be extended with additional estimators, experiment tracking, or a larger MNIST dataset.
